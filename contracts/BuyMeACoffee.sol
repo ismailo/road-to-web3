@@ -14,7 +14,7 @@ contract BuyMeACoffee {
         string message
     );
 
-    //Memo struct 
+    // Memo struct 
 
     struct Memo {
         address from;
