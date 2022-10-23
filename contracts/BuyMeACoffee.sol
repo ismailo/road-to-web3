@@ -5,7 +5,7 @@ pragma solidity ^0.8.9;
 import "hardhat/console.sol";
 
 contract BuyMeACoffee {
-    //Event to emoit when a Memo is created 
+    // Event to emoit when a Memo is created 
 
     event NewMemo (
         address indexed from,
